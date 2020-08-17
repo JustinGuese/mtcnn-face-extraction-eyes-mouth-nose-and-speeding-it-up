@@ -12,3 +12,7 @@ See the blog post on my homepage for further information
 ## contact
 
 https://www.linkedin.com/in/justin-guese/
+
+Full Story:
+
+https://www.datafortress.cloud/blog/face-detection-using-mtcnn/
